@@ -1,5 +1,3 @@
-# JS-template-Web-Components
-JS template &amp; Web Components
 # JS Шаблоны. Содержание
 
 - [Литералы и конструкторы](https://github.com/pestler/JS-template-Web-Components/blob/main/js-patterns-01.md)
@@ -7,3 +5,5 @@ JS template &amp; Web Components
 - [Шаблоны создания объектов и повторное использование кода](https://github.com/pestler/JS-template-Web-Components/blob/main/js-patterns-03.md)
 - [Шаблоны проектирования](https://github.com/pestler/JS-template-Web-Components/blob/main/js-patterns-04.md)
 - [Работа с DOM](https://github.com/pestler/JS-template-Web-Components/blob/main/js-patterns-05.md)
+- 
+- [Web-Components](https://github.com/pestler/JS-template-Web-Components/blob/main/web-components-intro.md)
